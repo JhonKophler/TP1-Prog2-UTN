@@ -1,0 +1,14 @@
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\bin\Debug\netcoreapp3.1\Punto 1.exe
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\bin\Debug\netcoreapp3.1\Punto 1.deps.json
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\bin\Debug\netcoreapp3.1\Punto 1.runtimeconfig.json
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\bin\Debug\netcoreapp3.1\Punto 1.runtimeconfig.dev.json
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\bin\Debug\netcoreapp3.1\Punto 1.dll
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\bin\Debug\netcoreapp3.1\Punto 1.pdb
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.csproj.AssemblyReference.cache
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.AssemblyInfoInputs.cache
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.AssemblyInfo.cs
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.dll
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.pdb
+C:\Users\Jhon Kophler\Documents\DESARROLLO\UTN\2do cuatrimestre\Programacion 2\TP 1\Punto 1\Punto 1\obj\Debug\netcoreapp3.1\Punto 1.genruntimeconfig.cache
