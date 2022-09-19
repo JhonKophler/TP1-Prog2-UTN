@@ -18,6 +18,18 @@ public class HelloWorld
         return vectorLocal;
     }
     
+    public static void sumarInternos(int[] n){
+        int sumaTotal = 0 ;
+        Array.Sort(n);
+        for(int i = 1; i < n.Length-1 ; i++){
+            sumaTotal += n[i];
+        }
+        
+        Console.WriteLine("LOS NUMEROS EXCLUIDOS SON:");
+        Console.WriteLine("EL MENOR DE TODOS: {0} \nY EL MAYOR DE TODOS: {1}",n[0],n[n.Length-1]);
+        Console.WriteLine("LA SUMA DEL RESTO DE LOS INTERNOS ES: " + sumaTotal);
+    }
+    
     public static void Main(string[] args)
     {
         Console.WriteLine("INGRESE UN NUMERO PARA CREAR UNA LISTA CON ESA CANTIDAD: ");
@@ -31,6 +43,7 @@ public class HelloWorld
             Console.WriteLine(i+ ") " + vectorCompleto[i-1]);
         }
         
+        sumarInternos(vectorCompleto);
         
     }
 }
